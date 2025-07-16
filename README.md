@@ -62,7 +62,7 @@
 - Persian (Fluent)  
 - Turkish (Fluent)  
 
----
+<!-- --- -->
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saeidtofig&label=Profile%20Views&color=blueviolet" alt="saeidtofig" />
